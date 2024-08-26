@@ -1,10 +1,3 @@
-//
-//  ShopAppUITestsLaunchTests.swift
-//  ShopAppUITests
-//
-//  Created by Колбаса Олег on 01.07.2024.
-//
-
 import XCTest
 
 final class ShopAppUITestsLaunchTests: XCTestCase {
